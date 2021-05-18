@@ -17,9 +17,9 @@ body{
     display: flex;
     background: #fff;
     flex-wrap: wrap;
-    flex-flow: column;
-    justify-content: flex-start;
-    height: 800px;
+    flex-flow: row;
+    height: 600px;
+    align-items: center;
 }
 
 .box {
